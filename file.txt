@@ -12,3 +12,4 @@ System information		(know more about your PC)
 
 ------------------------Tips---------------------------
 - Cleanup drive to remove the junk files of your drive		(Goto drive properties click cleanup and then select to delete junk)
+Zeeshan Hacker
