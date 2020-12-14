@@ -1,14 +1,13 @@
-Press-------------------Win + R---------------------
-
-dxdiag		(to show full information of parts of your computer like processor)
+Nappo-------------------Alt + N ---------------------
+diag		(to show full information of parts of your computer like processor)
 msconfig	(to show background services)
 regedit		(registry tweaks; don't know much about it)
 
 
 
 -------------------------Search---------------------
-Defragment and Optimize Drives	(better way to check if you have SSD, HDD)
-System information		(know more about your PC)
+Defragment and Device Drives	(better way to check if you have SSD, HDD)
+Device information		(know more about your PC)
 
 ------------------------Tips---------------------------
-- Cleanup drive to remove the junk files of your drive		(Goto drive properties click cleanup and then select to delete junk)
+- Cleanup drive to remove the Useless files of your drive		(Goto drive properties click cleanOUT and then select to delete junk)
