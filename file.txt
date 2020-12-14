@@ -1,4 +1,4 @@
-Nappo-------------------Alt + N ---------------------
+Press-------------------Alt + N ---------------------
 diag		(to show full information of parts of your computer like processor)
 msconfig	(to show background services)
 regedit		(registry tweaks; don't know much about it)
