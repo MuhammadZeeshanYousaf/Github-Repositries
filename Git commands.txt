@@ -1,0 +1,8 @@
+git init .
+git remote add <remote-name> <remote-url>
+--set push upstream
+	(set upstream to main branch of remote connection)
+git push --set-upstream <remote-name>
+	(set upstream by creating new branch (named <local-branch-name>) in remote connection)
+git push --set-upstream <remote-name> <local-branch-name>
+
