@@ -1,0 +1,9 @@
+Hi this is new document
+Hello Git
+New lIne dnfao
+
+git rebase check 1
+
+git rebase check 2
+this is 1st commit
+this is 2nd commit
